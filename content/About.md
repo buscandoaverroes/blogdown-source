@@ -5,7 +5,6 @@ aliases:
 author:
   name: Tom Mosher
 date: "2023-03-05"
-menu: main
 title: About
 ---
 

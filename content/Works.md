@@ -4,22 +4,47 @@ aliases:
 author:
   name: Tom Mosher
 date: "2023-03-05"
-menu: main
 title: Selected Works
+pageRef: works
 ---
 
-Here's a sampling, in descending order of maturity.
+Here's a sampling, going back in time.
 
-### Back-end
+{{< timeline >}}
 
--   [Global Laborforce Database](https://github.com/worldbank/gld): Some small and humble contributions to a fantastic team effort on global laborforce harmonization.
+{{< timelineItem icon="code" header="Bikeshare Visualizer" badge="Personal" subheader="Explore research findings interactively" >}}
+(link coming soon) A Shiny app to explore daily ride and station-level bikeshare data.
+{{< /timelineItem>}}
 
--   [Covid-19 and Bikeshare](https://github.com/buscandoaverroes/bikeshare/tree/stations-rework): a slow and steady meditation on potential effects of the Covid-19 Pandemic on aggregate bikeshare patterns in Washington, DC. [Latest findings](https://rpubs.com/avrsagashi/1004914).
+{{< timelineItem icon="code" header="Bikeshare Analysis" badge="Personal" subheader="Bikeshare Transport Initial Findings" >}}
 
--   [CycleR](https://github.com/buscandoaverroes/cycleR/tree/documentation): an R package to simplify the management of rideshare data.
+[Latest findings](https://rpubs.com/avrsagashi/1004914).
+{{< /timelineItem>}}
 
-### Front-End
+{{< timelineItem icon="github" header="CycleR" badge="Personal" subheader="An R-package for bikeshare data management">}}
+Realizing I needed a more elegant solution to the growing mess of code, I made this.
 
--   Bikeshare Visualizer: (link coming soon) A shiny app to explore daily ride and station-level bikeshare data.
+{{< github repo="buscandoaverroes/cycleR" >}}
+{{< /timelineItem >}}
 
--   [Covid-19 Vaccine Explorer](https://buscandoaverroes.shinyapps.io/covid-vaccine-calculator/): Understand the math and mechanics behind vaccine efficacy rates.
+{{< timelineItem icon="github" header="Covid-19 Bikeshare Transport" badge="Personal" >}}
+A slow and steady meditation on potential effects of the Covid-19 Pandemic on aggregate bikeshare patterns in Washington, DC.  {{< github repo="buscandoaverroes/bikeshare" >}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="GLD HarmonizeR" badge="Professional"  >}}
+Functions our team used that grew into a (somewhat-) formalized package.
+{{< github repo="worldbank/gld-harmonize-r">}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="GLD" badge="Professional" subheader="Global Laborforce Database" >}}
+Some small and humble contributions to a fantastic team effort on global laborforce harmonization.
+{{< github repo="worldbank/gld">}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="github" header="Vaccine Explorer" badge="Personal" subheader="Understand Covid-19 Vaccine Data" >}}
+An interactive Shiny App (with heavy custom HTML/CSS) to explore the math and mechanics behind vaccine efficacy rates.
+{{< github repo="buscandoaverroes/vaccine-efficacies">}}
+{{< /timelineItem >}}
+
+
+{{< /timeline >}}

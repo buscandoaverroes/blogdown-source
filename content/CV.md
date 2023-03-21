@@ -4,8 +4,8 @@ aliases:
 author:
   name: Tom Mosher
 date: "2023-03-05"
-menu: main
 title: CV
+pageRef: cv
 ---
 
 Remember, humans can't be summed-up in 1-2 pages.
