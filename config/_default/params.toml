@@ -28,14 +28,14 @@ disableImageOptimization = false
 
 [footer]
   showMenu = true
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = true
-  showAppearanceSwitcher = false
-  showScrollToTop = true
+  showAppearanceSwitcher = true
+  showScrollToTop = false
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false

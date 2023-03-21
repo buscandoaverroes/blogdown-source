@@ -18,17 +18,10 @@ Hugo ships with several [built-in shortcodes](https://gohugo.io/content-manageme
 
 ## YouTube
 
-Below is an example using the built-in `youtube` shortcode.
-
-{{< youtube ZJthWmvUzzc >}}
 
 ## Twitter
 
-This example uses the `twitter_simple` shortcode to output a Tweet. It requires two named parameters `user` and `id`.
 
-{{< twitter_simple user="DesignReviewed" id="1085870671291310081" >}}
-
-Alternatively, the `tweet` shortcode can be used to embed a fully marked up Twitter card.
 
 ## Gist
 
@@ -38,6 +31,3 @@ The `gist` shortcode can be used to embed a GitHub Gist. It requires two unnamed
 
 ## Vimeo
 
-The `vimeo_simple` shortcode will embed a Vimeo video.
-
-{{< vimeo_simple 48912912 >}}
