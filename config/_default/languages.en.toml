@@ -5,8 +5,8 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Welcome to Tom's brain..."
-# logo = "img/logo.png"
+# title = ""
+# logo = "img/averroes.png"
 # description = "My awesome website"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
  [author]
    name = "Tom Mosher"
-   image = "img/blowfish_logo.png"
+   image = "img/averroes.jpeg"
    headline = "Open-source creative and developer"
    bio = "Sometimes an educator, sometimes being educated"
    links = [
