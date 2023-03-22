@@ -18,7 +18,8 @@ Here's a sampling, going back in time.
 
 {{< timelineItem icon="code" header="Bikeshare Analysis" badge="Personal" subheader="Bikeshare Transport Initial Findings" >}}
 
-[Latest findings](https://rpubs.com/avrsagashi/1004914).
+
+<a href="https://rpubs.com/avrsagashi/1004914">Latest findings</a>.
 {{< /timelineItem>}}
 
 {{< timelineItem icon="github" header="CycleR" badge="Personal" subheader="An R-package for bikeshare data management">}}
@@ -45,6 +46,5 @@ Some small and humble contributions to a fantastic team effort on global laborfo
 An interactive Shiny App (with heavy custom HTML/CSS) to explore the math and mechanics behind vaccine efficacy rates.
 {{< github repo="buscandoaverroes/vaccine-efficacies">}}
 {{< /timelineItem >}}
-
 
 {{< /timeline >}}
