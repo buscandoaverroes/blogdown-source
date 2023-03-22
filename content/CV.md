@@ -8,7 +8,7 @@ title: CV
 pageRef: cv
 ---
 
-Remember, humans can't be summed-up in 1-2 pages.
+Remember, humans are more complicated and beautiful than what you see in 1-2 pages.
 
 [English](/pdf/Mosher_CV_eng.pdf)
 
