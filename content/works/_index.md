@@ -17,9 +17,16 @@ Here's a sampling, going back in time.
 {{< /timelineItem>}}
 
 {{< timelineItem icon="code" header="Bikeshare Analysis" badge="Personal" subheader="Bikeshare Transport Initial Findings" >}}
+{{< gallery >}}
+  <img src="a-1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="a-2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="a-3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="a-4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="a-5.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="a-6.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}}
 
-
-<a href="https://rpubs.com/avrsagashi/1004914">Latest findings</a>.
+See the full <a href="https://rpubs.com/avrsagashi/1004914">latest findings here</a>.
 {{< /timelineItem>}}
 
 {{< timelineItem icon="github" header="CycleR" badge="Personal" subheader="An R-package for bikeshare data management">}}
