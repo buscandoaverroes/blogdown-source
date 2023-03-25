@@ -8,7 +8,7 @@ date: "2023-03-05"
 title: About
 ---
 
-Admittedly, I have a bad habit of wandering and subsequently making something beautiful from it.
+I have a bad habit of wandering and subsequently making something beautiful from it.
 
 I studied politics, economics, religion, and all other initially-taboo topics of conversation at [Pomona College](pomona.edu "47"). After graduation I worked as a foreign language educator abroad and at home; I also fought for education-access with an NGO as a program coordinator.
 
