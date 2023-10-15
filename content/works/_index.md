@@ -8,7 +8,7 @@ title: Selected Works
 pageRef: works
 ---
 
-Here's a sampling, going back in time.
+Here's a sampling of some public work, going back in time.
 
 {{< timeline >}}
 
