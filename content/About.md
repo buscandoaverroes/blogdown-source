@@ -14,9 +14,9 @@ I studied politics, economics, religion, and all other initially-taboo topics of
 
 I went back to school to study econometrics and international development towards a Master's of Science in Foreign Service at [Georgetown](https://msfs.georgetown.edu/).
 
-I then discovered open-source data science at the World Bank, where I was lucky enough to be mentored as a creative, collaborative, and curious developer.
+I then discovered open-source data science at the World Bank, where I was lucky enough to be mentored as a creative, collaborative, and curious developer. I now work as an Engineer in Japan.
 
-I speak English, Spanish, Japanese, and Italian. I code in R, Stata, sometimes in Python, Julia, and soon in Rust 😄
+I speak English, Spanish, Japanese, and Italian. I code in Go, R, Stata, sometimes in Python, Julia, and soon in Rust 😄
 
 My current interests are post-humanism, singularity studies, sustainable urban transit, running, and wherever Kevin Durant is playing. I eat a plant-based diet and bike everywhere.
 
