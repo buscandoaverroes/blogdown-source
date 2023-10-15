@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
  [author]
    name = "Tom Mosher"
    image = "img/averroes.jpeg"
-   headline = "{{< typeit speed=50 lifeLike=true >}}Open-source developer{{< /typeit >}}"
+   headline = "Open-source developer"
    bio = "Sometimes an educator, sometimes being educated"
    links = [
      { email = "mailto:buscandoaverroes@icloud.com" },
